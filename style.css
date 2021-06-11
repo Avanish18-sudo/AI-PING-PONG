@@ -1,0 +1,14 @@
+body
+{
+background-size: cover;
+}
+.heading{
+    width: 100%;
+    border-radius: 30px;
+    color: white;
+}
+.instruction{
+    display:inline-block;
+    width: 45px;
+    background-color: orange;
+}
